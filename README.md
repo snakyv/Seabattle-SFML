@@ -1,11 +1,13 @@
 # 🛡️ SeaBattle (C++/SFML)
 
-![Language](https://img.shields.io/badge/language-C%2B%2B17-blue.svg)
-![Library](https://img.shields.io/badge/library-SFML%202.5.1-green.svg)
-![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)
-![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
-![Repo size](https://img.shields.io/github/repo-size/snakyv/Seabattle-SFML.svg)
-![Last commit](https://img.shields.io/github/last-commit/snakyv/Seabattle-SFML.svg)
+![Language](https://img.shields.io/badge/Language-C++17-blue?style=for-the-badge)
+![Library](https://img.shields.io/badge/Library-SFML%202.5.1-green?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=for-the-badge)
+
+![Repo Size](https://img.shields.io/github/repo-size/snakyv/Seabattle-SFML?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/snakyv/Seabattle-SFML?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+
 
 🎮 A graphical implementation of the classic **Battleship** game using **C++** and the **SFML** multimedia library.  
 This project was developed as part of a coursework assignment in **Systems Programming**.
