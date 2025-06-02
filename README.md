@@ -67,7 +67,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ## ✨ Author
 
 Developed by **Vitalii Zadorozhnyi**  
-Group: **AD-231**  
 Specialty: **126 — Information Systems and Technologies**  
 Year: **2025**  
 University: **Odesa, Ukraine**
